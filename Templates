@@ -1,0 +1,10 @@
+# mcpe-mod-script-templates
+You can tell me more code!
+
+FUNCTION NEWLEVEL
+
+function newLevel(){
+ var chat = clientMessage
+  chat("My mod")
+}
+//you can change my mod to anything else the "my mod" will displayed on the chat!
